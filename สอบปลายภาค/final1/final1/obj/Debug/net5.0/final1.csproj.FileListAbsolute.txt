@@ -1,0 +1,16 @@
+D:\ปี 2\Programming\สอบปลายภาค\final1\final1\obj\Debug\net5.0\final1.csproj.AssemblyReference.cache
+D:\ปี 2\Programming\สอบปลายภาค\final1\final1\obj\Debug\net5.0\final1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ปี 2\Programming\สอบปลายภาค\final1\final1\obj\Debug\net5.0\final1.AssemblyInfoInputs.cache
+D:\ปี 2\Programming\สอบปลายภาค\final1\final1\obj\Debug\net5.0\final1.AssemblyInfo.cs
+D:\ปี 2\Programming\สอบปลายภาค\final1\final1\obj\Debug\net5.0\final1.csproj.CoreCompileInputs.cache
+D:\ปี 2\Programming\สอบปลายภาค\final1\final1\bin\Debug\net5.0\final1.exe
+D:\ปี 2\Programming\สอบปลายภาค\final1\final1\bin\Debug\net5.0\final1.deps.json
+D:\ปี 2\Programming\สอบปลายภาค\final1\final1\bin\Debug\net5.0\final1.runtimeconfig.json
+D:\ปี 2\Programming\สอบปลายภาค\final1\final1\bin\Debug\net5.0\final1.runtimeconfig.dev.json
+D:\ปี 2\Programming\สอบปลายภาค\final1\final1\bin\Debug\net5.0\final1.dll
+D:\ปี 2\Programming\สอบปลายภาค\final1\final1\bin\Debug\net5.0\ref\final1.dll
+D:\ปี 2\Programming\สอบปลายภาค\final1\final1\bin\Debug\net5.0\final1.pdb
+D:\ปี 2\Programming\สอบปลายภาค\final1\final1\obj\Debug\net5.0\final1.dll
+D:\ปี 2\Programming\สอบปลายภาค\final1\final1\obj\Debug\net5.0\ref\final1.dll
+D:\ปี 2\Programming\สอบปลายภาค\final1\final1\obj\Debug\net5.0\final1.pdb
+D:\ปี 2\Programming\สอบปลายภาค\final1\final1\obj\Debug\net5.0\final1.genruntimeconfig.cache
